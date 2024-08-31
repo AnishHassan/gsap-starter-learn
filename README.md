@@ -1,5 +1,7 @@
 # React + Vite
 
+A follow up of short video of Javascript Mastery ( Youtube Channel ) about GSAP basic animations.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
